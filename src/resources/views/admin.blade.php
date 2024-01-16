@@ -8,6 +8,14 @@
     <link rel="stylesheet" href="{{ asset('css/admin.css') }}" />
 </head>
 <body>
-    
+    <header class="header">
+        <div class="header__inner">
+            <h1 class="header__logo">FashionablyLate</h1>
+        </div>
+    </header>
+
+    <main>
+        <h2 class="admin__title">Admin</h2>
+    </main>
 </body>
 </html>

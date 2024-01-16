@@ -10,7 +10,7 @@
 <body>
     <header class="header">
         <div class="header__inner">
-            <h1 class="header__logo">FashionablyLate</ha>
+            <h1 class="header__logo">FashionablyLate</h1>
         </div>
     </header>
 
